@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 10 KLASĖS KALBĖJIMAI (PPUP)
 description: |
 ---
 2016 metų 10 klasės lietuvių kalbėjimo temos ir potemės:
