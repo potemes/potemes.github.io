@@ -2,16 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://reikiapotemes.lt
+title: Reikia Potėmes
+email: lietuviuiskaita12@gmail.com
+author: Potemės
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  Rašome 10 klasės PUPP ir 12 klasės VBE potemių kalbėjimus. Kiekvienam klientui skiriame individualų dėmesį!
+copyright: 'Copyright &copy; 2015 ReikiaPotemes.lt All Rights Reserved.'
+Sprendimas: 'Nauji VĖJAI'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
